@@ -486,8 +486,8 @@ public class ShurnimStorageTest {
  
 时间仓促，功能简陋，望您包涵。OneCoder(Blog:[http://www.coderli.com](http://www.coderli.com))特别希望看到该项目对您哪怕一点点的帮助。任意的意见和建议，欢迎随意与我沟通,联系方式：
  
-* Email: <wushikezuo@gmail.com>
-* QQ:57959968
+* Email: <@gmail.com>
+* QQ:
 * Blog:[OneCoder](http://www.coderli.com)
  
 项目的Bug和改进点，可在OSChina上以issue的方式直接提交给我。
